@@ -1,3 +1,6 @@
 git pull origin master
 zhong 
 git add . 
+
+-------
+remote add
