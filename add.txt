@@ -6,3 +6,4 @@ git add .
 remote add
 -------
 remote add
+git branch -b dev 
