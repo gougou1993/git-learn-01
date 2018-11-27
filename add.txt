@@ -7,3 +7,4 @@ remote add
 -------
 remote add
 git branch -b dev 
+Creating a new branch is quick And simple 
