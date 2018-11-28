@@ -8,4 +8,5 @@ remote add
 remote add
 git branch -b dev 
 Creating a new branch is quick And simple 
-add in master branch 
+add in master branch
+add in feature1 branch
