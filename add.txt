@@ -29,3 +29,4 @@ GitµÄ°æ±¾¿âÀï´æÁËºÜ¶à¶«Î÷£¬ÆäÖĞ×îÖØÒªµÄ¾ÍÊÇ³ÆÎªstage£¨»òÕß½Ğindex£©µÄÔİ´æÇø£¬»¹Ó
 °æ±¾»ØÍË 
 add distributed 
 git merger --no-ff -m comment branchname
+working on dev
